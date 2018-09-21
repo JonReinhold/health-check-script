@@ -1,1 +1,1 @@
-System check
+System check script.
